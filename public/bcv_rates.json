@@ -1,15 +1,15 @@
 ﻿{
-    "usd":  915.7476,
-    "usd_raw":  "915,74760000",
-    "usd_formatted":  "915,75",
-    "fecha_valor":  "Martes, 17 Noviembre 2026",
-    "fecha_valor_iso":  "2026-11-17T00:00:00-04:00",
-    "ultima_consulta":  "2026-11-16T22:38:44+00:00",
+    "usd":  916.6477,
+    "usd_raw":  "916,64770000",
+    "usd_formatted":  "916,65",
+    "fecha_valor":  "Miércoles, 18 Noviembre 2026",
+    "fecha_valor_iso":  "2026-11-18T00:00:00-04:00",
+    "ultima_consulta":  "2026-11-17T21:26:44+00:00",
     "fuente":  "Banco Central de Venezuela (https://www.bcv.org.ve/)",
     "otras_divisas":  {
-                          "yuan":  137.4192,
-                          "lira":  18.1735,
-                          "euro":  1008.3114,
-                          "rublo":  11.0924
+                          "yuan":  137.5233,
+                          "lira":  18.2102,
+                          "euro":  1007.3867,
+                          "rublo":  11.1719
                       }
 }
